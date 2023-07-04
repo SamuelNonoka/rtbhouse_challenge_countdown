@@ -1,0 +1,17 @@
+{
+  "name": "rtbhouse_test_1_countdown",
+  "version": "1.0.0",
+  "description": "Countdown",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "html",
+    "challenge",
+    "dom"
+  ],
+  "author": "Samuel Pereira da Silva",
+  "license": "ISC"
+}
